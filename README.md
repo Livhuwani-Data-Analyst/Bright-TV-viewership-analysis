@@ -1,4 +1,4 @@
-#📺BRIGHTTV VIEWERS ANALYSIS
+# 📺BRIGHTTV VIEWERS ANALYSIS
 
 This repository contains a detailed analysis of BrightTV viewing trends. The goal is to understand viewer behaviour over time and across demographics, and to identify opportunities to increase engagement.
 
