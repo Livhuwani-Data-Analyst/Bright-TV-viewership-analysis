@@ -38,18 +38,18 @@ This repository contains a detailed analysis of BrightTV viewing trends. The goa
 
 📌Recommendations
 
-# Content Strategy:
+Content Strategy:
 
 * Increase sports event coverage for loyal, long-session users.
 * Create family/educational content for Seniors and Under-18 groups.
 * Expand medium-duration content to balance short bursts and long marathons.
 
-# User Growth:
+User Growth:
 
 * Launch re-engagement campaigns to recover casual users.
 * Digital marketing focused on Young Adults.
 
-# Regional Expansion:
+Regional Expansion:
 
 * Double down on Gauteng personalization.
 * Regional promotions for underrepresented provinces.
